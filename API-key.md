@@ -1,0 +1,2 @@
+# LingoLand
+# The API key is in the folder articleParser-secret
